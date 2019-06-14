@@ -1,8 +1,2 @@
 # travel-page
-This project contains 3 languages.
-
-HTML 
-CSS 
-JQuery
-
-Also this project has pictures and icons.
+This project is an front-end project which is done with HTML, CSS and JQuery. This is simple project for describing the working type of HTML and CSS tags.
